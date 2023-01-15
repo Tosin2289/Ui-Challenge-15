@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
                       Container(
-                        height: 40,
+                        height: 35,
                         width: 100,
                         decoration: BoxDecoration(
                           color: Colors.white,
